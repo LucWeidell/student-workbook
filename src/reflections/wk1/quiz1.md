@@ -3,7 +3,7 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-move to the target directory: parent child, root, path ext.
+Move to the target directory: parent child, root, path ext.
 ```
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
