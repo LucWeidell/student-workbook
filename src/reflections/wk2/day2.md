@@ -13,7 +13,7 @@ argument: what is actually passed into a function real time ('my banna', 'this i
 
 ## What are higher order functions? Can you provide an example?
 Functions that either take or return a function.
-Ex: forEach(), filter(), find(): each run on an erray and each element adn can have an expression that run
+Ex: forEach(), filter(), find(): each run on an array and each element adn can have an expression that run
   on each element making it higher order.
 
 ## Afternoon Challenge:
