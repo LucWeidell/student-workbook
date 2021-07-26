@@ -20,4 +20,4 @@ Typical order:
   3 IT NEEDS TO FOLLOW the RESTful constraints of the source api.
 
 ## Afternoon Challenge (this was solid):
-https://github.com/TimothyKimble/Music-Is-Fun
+https://github.com/LucWeidell/Music-Is-Fun_Partner
