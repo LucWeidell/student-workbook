@@ -6,7 +6,8 @@
 3 Calling itself repeatedly with lambda functions
 
 ## What does the asynchronous mean and how are callbacks involved?
-Asyncronous means a functions that waits for it to be completed
+Asynchronous means a functions that waits for it to be completed
+Callbacks mean that call upon this next function once the asynchronous code is complete.
 
 ## Summarize the 3 ways to avoid / fix Callback Hell
 1 Keep your code shallow: name and define functions
