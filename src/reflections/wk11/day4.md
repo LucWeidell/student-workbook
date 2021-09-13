@@ -6,5 +6,5 @@ Concerns:
 Manage My time:
   Plan on working on Front end to populate properly a but and then full backend
   I drew out everything needed and stubbed accordingly, just need to follow through
-Most about the couse:
+Most about the course:
   Honestly just the practical work the balance of lecture to projects keeps the interest high.

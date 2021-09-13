@@ -11,3 +11,6 @@ values or methods from the parent not other siblings.
 ## How does accessibility affect inheritance?
 If a parent is private all corresponding values for the child are private if parent is public
 the child can still be private.
+
+# Afternoon Challenge
+https://github.com/LucWeidell?tab=repositories

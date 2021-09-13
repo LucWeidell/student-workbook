@@ -14,3 +14,6 @@ p.*
 d.*
 From doctors d
 Join patients p ON d.patientId = p.id
+
+# Afternoon Challenge:
+https://github.com/LucWeidell/contracted-c-sharp-back

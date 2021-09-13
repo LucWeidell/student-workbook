@@ -13,3 +13,6 @@ Second-order SQL injections
 We use the DAPPER ORM as well as additional account authorization checks to both
 sanative the user to run certain commands and that the SQL command does not leave
 its scope. Also, IDSs work.
+
+# Afternoon Challenge:
+https://github.com/LucWeidell?tab=repositories
